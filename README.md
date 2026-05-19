@@ -10,17 +10,7 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/chandusaigari">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chandusaigari&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="chandusaigari's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=chandusaigari&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="chandusaigari's GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=chandusaigari&theme=highcontrast&radius=10" alt="chandusaigari's Activity Graph" />
-</p>
+ 
 
 ## 📌 About Me
 - Focused on CI/CD automation
@@ -103,6 +93,19 @@ Implemented independent services for user, product, and order management with AP
 <b>☁️ CI/CD Pipeline Automation</b><br>
 Designed a CI/CD pipeline using Jenkins and GitHub Actions for automated deployment.<br>
 Enabled continuous integration with testing, build, and deployment stages for faster delivery.
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/chandusaigari">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chandusaigari&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="chandusaigari's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=chandusaigari&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="chandusaigari's GitHub Streak" width="49%" />
+</p>
+
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=chandusaigari&theme=highcontrast&radius=10" alt="chandusaigari's Activity Graph" />
 </p>
 
 ## 🔗 Connect with Me
