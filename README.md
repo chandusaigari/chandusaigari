@@ -78,10 +78,10 @@
 
 <h3 align="center">Version Control, OS & Networking</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-scm-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
-  
+  <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" width="40" />
 </p>
 
 <h3 align="center">Tools</h3>
