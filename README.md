@@ -89,10 +89,20 @@
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/chandusaigari">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chandusaigari&langs_count=8&layout=compact&theme=highcontrast&border_radius=10" />
-  </a>
+ ## 🚀 Projects
+
+<p>
+<b>🐳 Dockerized Microservices E-Commerce</b><br>
+Built a scalable microservices-based e-commerce backend using Docker containers.<br>
+Implemented independent services for user, product, and order management with API communication.
+</p>
+
+<br>
+
+<p>
+<b>☁️ CI/CD Pipeline Automation</b><br>
+Designed a CI/CD pipeline using Jenkins and GitHub Actions for automated deployment.<br>
+Enabled continuous integration with testing, build, and deployment stages for faster delivery.
 </p>
 
 ## 🔗 Connect with Me
