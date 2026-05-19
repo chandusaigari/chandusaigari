@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=SAIGARI%20CHANDU&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=DEVOPS%20FRESHER&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=SAIGARI%20CHANDU&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=DEVOPS%20FRESHER&descSize=18&descAlignY=55&textBg=false"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=KEEP%20WORKING%20..." alt="Typing introduction" />
+</p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=chandusaigari">
